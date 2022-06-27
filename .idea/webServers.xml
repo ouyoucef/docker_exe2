@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70e695a8-e7af-4f83-b233-4e20adf7ca68" name="ferhat">
+        <fileTransfer accessType="SFTP" host="164.132.212.122" port="22" sshConfigId="fb9b741a-9dcc-46c8-b5a1-5300bebb72e2" sshConfig="ubuntu@164.132.212.122:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
